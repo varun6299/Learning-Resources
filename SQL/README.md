@@ -43,4 +43,6 @@ This folder brings together cheatsheets, guides, interview prep, and project han
 ## 🚀 Contribution
 This is a living repository — feel free to fork, star ⭐, and contribute additional SQL resources that can help learners.
 
+I would like to give a shout out and a big thanks to all contributors from whom I've been able to collect such valuable resources. Please know - If you're resources made it here, they were invaluable for me. THANK YOU
+
 ---
