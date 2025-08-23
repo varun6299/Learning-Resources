@@ -1,12 +1,11 @@
 # 📂 SQL Resources Repository
 
-This is a curated collection of resources designed to help you master SQL, from **beginner essentials** to **advanced optimization techniques**.  
-This folder brings together cheatsheets, guides, interview prep, and project handbooks to make your SQL journey easier and structured.
-
 <p align="center">
-  <img src="images/personal loan screenshot.png" alt="Income Distribution" width="600"/>
+  <img src="images/SQL Databases.png" alt="Income Distribution" width="600"/>
 </p>
 
+This is a curated collection of resources designed to help you master SQL, from **beginner essentials** to **advanced optimization techniques**.  
+This folder brings together cheatsheets, guides, interview prep, and project handbooks to make your SQL journey easier and structured.
 
 ## 📘 What You'll Find Here
 
