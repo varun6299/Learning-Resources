@@ -5,6 +5,7 @@
 </p>
 
 This is a curated collection of resources designed to help you master SQL, from **beginner essentials** to **advanced optimization techniques**.  
+
 This folder brings together cheatsheets, guides, interview prep, and project handbooks to make your SQL journey easier and structured.
 
 ## 📘 What You'll Find Here
